@@ -11,29 +11,7 @@ I'm a passionate Front-End Developer who enjoys building responsive, interactive
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 💻 Front-End Developer
-* 🌱 Currently learning and improving my Front-End skills
-* 🎨 I love creating clean and responsive user interfaces
-* ⚡ Passionate about Web Development
-* 📚 Always learning and exploring new technologies
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emana45&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emana45&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
 </p>
 
 ---
